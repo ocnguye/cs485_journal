@@ -14,3 +14,8 @@ V. [Elevator Pitches](https://ocnguye.github.io/cs485_journal/elev_pitches.pdf)
 VI. [Literative Review](https://ocnguye.github.io/cs485_journal/litreview.pdf)
 
 VII. [Final Project](https://ocnguye.github.io/cs485_journal/finalproj.pdf)
+
+
+Oanh Nguyen
+CS485-3
+FA24
